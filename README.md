@@ -6,10 +6,6 @@ CODSOFT is an innovative software development company that thrives on providing 
 The internship at CODSOFT involves a variety of tasks aimed at enhancing your Python programming skills. You are required to complete at least three tasks to successfully finish the internship and earn the completion certificate. These tasks include:
 
 a)To-Do List Application: Create a command-line or GUI-based application that allows users to efficiently manage and organize their tasks.
-b)Calculator: Design a basic calculator that performs simple arithmetic operations, such as addition, subtraction, multiplication, and division.
-c)Password Generator: Build a password generator that generates strong, random passwords based on user-specified length and complexity.
-d)Rock-Paper-Scissors Game: Develop a game where users can choose rock, paper, or scissors, and play against the computer. Include score tracking and a user-friendly interface.
-e)Contact Book: Create a contact management system where users can store, add, search, update, and delete contact information (name, phone number, email, and address).
 
 # Skills & Learning Experience:
 This internship offers an unparalleled opportunity to refine my Python programming skills and apply them to real-world scenarios. I will enhance my proficiency in:
